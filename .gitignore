@@ -1,0 +1,8 @@
+#Ignormos todos los archivos que generan pdfLATEX.
+*.aux
+*.log
+*.lof
+*.lot
+*.pdf
+*.gz
+*.toc
